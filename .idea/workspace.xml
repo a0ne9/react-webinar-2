@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b02a2761-24cb-4a64-b730-4d525a002e50" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/controls/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/controls/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/list/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/list/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/modal/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/modal/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CbRYzmvByPDmjqagzHTJbjtUVo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b02a2761-24cb-4a64-b730-4d525a002e50" name="Changes" comment="" />
+      <created>1659069350401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659069350401</updated>
+      <workItem from="1659069351912" duration="398000" />
+      <workItem from="1659069914375" duration="2194000" />
+      <workItem from="1659072362006" duration="1085000" />
+      <workItem from="1659216771380" duration="2108000" />
+      <workItem from="1659864626414" duration="17232000" />
+      <workItem from="1659885621271" duration="10898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
